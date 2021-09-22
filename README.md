@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Assembleia Legislativa do Estado do Ceará.
+- 🔭 I’m currently working at Assembleia Legislativa do Estado do Ceará.
 - 🌱 I’m currently learning javascript, html, css, sql, node, ejs
 - 🤔 I’m looking for help with node, sql
 - 💬 Ask me about Javascript, html, css
